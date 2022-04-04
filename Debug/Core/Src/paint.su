@@ -1,0 +1,9 @@
+paint.c:45:13:ColorIndicator	8	static
+paint.c:53:13:ClearButton	16	static
+paint.c:63:13:ColorButtons	24	static
+paint.c:77:16:IsColorButtonTouched	24	static
+paint.c:105:9:IsClearButtonTouched	16	static
+paint.c:132:13:InitScreen	16	static
+paint.c:153:13:DrawScreen	16	static
+paint.c:192:6:DrawClear	16	static
+paint.c:204:6:Paint	8	static
